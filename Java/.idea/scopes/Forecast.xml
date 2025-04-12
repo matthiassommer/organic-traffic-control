@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="Forecast" pattern="(src:de.dfg.oc.otc.layer1.observer.forecasting..*&amp;&amp;!src:tests.layer1.forecastModule.*||src:tests.layer1.forecastModule..*)&amp;&amp;!file[OTC]:src/de/dfg/oc/otc/layer1/observer/forecasting/combinationStrategies/xcsr//*" />
-</component>
