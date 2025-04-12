@@ -1,0 +1,7 @@
+These file are necessary for the Regional Manager to work.
+
+You have to define a seperate CSV for all centroids and all junctions of a network.
+
+Pay attention to the naming of these two files. The first part has to be identical with the network file your using (e.g. manhattan6Node)
+
+The coordinates are not real world coordinates, but should represent the network topology.

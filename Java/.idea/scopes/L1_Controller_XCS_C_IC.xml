@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="L1_Controller_XCS(C)IC" pattern="(file[OTC]:src/de/dfg/oc/otc/layer1/controller/xcscic//*||file[OTC]:src/de/dfg/oc/otc/layer1/controller/xcsic//*)&amp;&amp;!file[OTC]:src/de/dfg/oc/otc/layer1/controller/xcsic/interpolation/algorithms/*&amp;&amp;!file[OTC]:src/de/dfg/oc/otc/layer1/controller/xcsic/interpolation/algorithms//*&amp;&amp;!file[OTC]:src/de/dfg/oc/otc/layer1/controller/xcscic/interpolation/algorithms//*" />
+</component>

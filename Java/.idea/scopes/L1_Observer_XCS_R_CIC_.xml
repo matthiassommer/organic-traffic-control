@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="L1_Observer_XCS(R,CIC)" pattern="file[OTC]:src/de/dfg/oc/otc/layer1/observer/forecasting/combinationStrategies/xcsr//*" />
+</component>
